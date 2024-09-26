@@ -18,7 +18,7 @@ import com.example.individual14m4.databinding.FragmentFragmento2Binding;
  * create an instance of this fragment.
  */
 public class Fragmento2 extends Fragment {
-
+//
     private FragmentFragmento2Binding binding;
 
     // TODO: Rename parameter arguments, choose names that match
